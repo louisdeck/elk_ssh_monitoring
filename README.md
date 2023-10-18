@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-OS : Ubuntu 16.04
+OS : Ubuntu 16.04.7
 
-ELK : 7.2
+ELK : 7.17.14
 
 ##
 
@@ -47,5 +47,6 @@ you can now search on Kibana by SSH usernames, source IPs, success status...
 }
 ```
 
+ ![](dashboard.png) 
 
 
